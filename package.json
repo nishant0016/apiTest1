@@ -1,0 +1,16 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node task4.js"
+  },
+  "keywords": ["node","build"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
