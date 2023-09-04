@@ -5,12 +5,16 @@
   "main": "task4.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node task4.js"
+    "start": "node task4.js"
   },
-  "keywords": ["node","build"],
+  "keywords": [
+    "node",
+    "build"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.5.0",
     "express": "^4.18.2"
   }
 }
